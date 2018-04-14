@@ -1,0 +1,29 @@
+p{
+    color: peru;
+    border: 6px solid silver;
+    text-transform: uppercase;
+
+}
+.texto-tachado{
+    text-decoration: line-through;
+}
+.texto-tachado:hover{
+    color: aquamarine;
+    transform: translate(20px);
+}
+#elchido{
+    background-color: #ffff;
+}
+    
+h1{
+    color: palevioletred;
+    border: 10px groove green;
+    margin: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+body{
+    background-color: oldlace;
+    border: 4px dashed #00aaff;
+    padding: 20px;
+}
