@@ -1,14 +1,15 @@
 body{
-    background-color: dodgerblue
+    background-color: rgb(60, 65, 70);
+    color: green;
 }
 h1{
-    color: whitesmoke;
-    border:0px;
-    font-weight: bold;
-    text-decoration: underline;
-    border-radius: 5px;
-    transform: translate(250px);
-    padding: 10px;
+    color: firebrick;
+    margin: 0px;/*agregar margen*/
+    padding: 0px;/*margen interno de los elementos*/
+    font-size: 20px;
+    height: 2rem;
+    
+
 }
 h1:hover{
     transform: translate(20px);
