@@ -1,0 +1,33 @@
+body{
+    margin: 0px;
+    background-color: navajowhite;
+}
+nav{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 20px auto;
+    padding: 27px;  
+    background: rgb(42, 165, 163);
+}
+button {
+    margin: 50px 50px auto;
+    padding: 20px;
+
+}
+.redondo{
+    border-radius: 50%;
+    box-shadow: black 3px 3px 3px;
+    
+}
+brillante{
+    background-color: darksalmon;
+}
+.tarjeta{
+    background-color: rgb(203, 158, 61);
+    width: 350px;
+    height: 400px;
+    border-radius: 20px;
+    margin: 40px auto;
+}
+h3{
+    text-align: center;
+}
